@@ -8,23 +8,23 @@ Important Commands Summary
 
 Command	Purpose
 
-pd.DataFrame()	Create structured dataset
+pd.DataFrame() -	Create structured dataset
 
-px.treemap()	Hierarchical visualization
+px.treemap()	-Hierarchical visualization
 
-linkage()	Clustering algorithm
+linkage()-	Clustering algorithm
 
-dendrogram()	Cluster visualization
+dendrogram()	-Cluster visualization
 
-venn2()	Set comparison
+venn2()-	Set comparison
 
-go.Sankey()	Flow diagram
+go.Sankey()	-Flow diagram
 
-px.scatter_3d()	3D visualization
+px.scatter_3d()	-3D visualization
 
-go.Scatterpolar()	Radar chart
+go.Scatterpolar()	-Radar chart
 
-fig.show() / plt.show()	Display plots
+fig.show() / plt.show()-	Display plots
 
 Plotly: A Python library used to create interactive and dynamic visualizations with zooming, hovering, and animation features.
 
